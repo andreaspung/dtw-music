@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Don't push PyCharm IDE files
+.idea/
+
+# Don't push audio files
+audio/
